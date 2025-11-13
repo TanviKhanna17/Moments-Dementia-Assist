@@ -1,0 +1,14 @@
+doc.md
+venv/
+__pycache__/
+*.db
+*.sqlite
+issues.md
+uploads/
+node_modules/
+project-bolt-sb1-hzumdfaa/
+frontend-doc.md
+rag.md
+todo.md
+.env
+faiss_indexes/
