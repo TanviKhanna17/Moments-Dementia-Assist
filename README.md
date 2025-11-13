@@ -1,4 +1,4 @@
-# Empathetic Family Recognition Aid
+# Moments - Empathetic Family Recognition Aid
 
 AI powered companion system for people affected by dementia.
 
